@@ -20,7 +20,8 @@ Flappy_Bird/
 │   ├── bird.png
 │   ├── pipe_up.tiff
 │   └── pipe_down.tiff
-├── flappy_bird.py
+│   └── screenshot.png
+├── game.py
 ├── README.md
 └── requirements.txt
 ```
@@ -47,7 +48,7 @@ pip install -r requirements.txt
 Make sure you have Python and Pygame installed. Then run:
 
 ```bash
-python flappy_bird.py
+python game.py
 ```
 
 ## 📝 Notes
