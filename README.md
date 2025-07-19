@@ -2,7 +2,7 @@
 
 A simple Flappy Bird clone made using Python and the Pygame library. This project is a great starting point for learning basic game development concepts such as gravity, collision detection, and sprite handling.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## 🎮 How to Play
 
